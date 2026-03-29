@@ -3,8 +3,8 @@
 
 | Field | Details |
 |---|---|
-| **Name** | Pawan Kumar |
-| **Registration Number** | 24BSA10347 |
+| **Name** | Nandini Vashistha |
+| **Registration Number** | 24BAI10926|
 | ** Software** | Linux Kernel |
 | **License** | GNU General Public License v2 (GPL v2) |
 
